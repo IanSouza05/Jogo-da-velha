@@ -1,0 +1,17 @@
+.square {
+    width: 115px;
+    height: 115px;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    border-style: double;
+    border-color: rgb(0, 0, 0);
+}
+
+.custom-button {
+    width: 152px;
+    height: 32px; 
+    font-size: 15px;
+    text-indent: -4px;
+    color: black
+}
